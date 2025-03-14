@@ -1,0 +1,7 @@
+# Node modules (backend & frontend)
+backend/node_modules/
+frontend/node_modules/
+
+# Environment variables (Sensitive Data)
+backend/.env
+frontend/.env
